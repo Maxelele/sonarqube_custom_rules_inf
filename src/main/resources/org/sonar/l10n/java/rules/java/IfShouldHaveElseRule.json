@@ -1,0 +1,11 @@
+{
+  "title": "If Statement should always have an else",
+  "type": "Code_Smell",
+  "status": "ready",
+  "tags": [
+    "error",
+    "inf2",
+    "basic"
+  ],
+  "defaultSeverity": "Critical"
+}

@@ -1,0 +1,19 @@
+<p>Constructors should be private</p>
+
+<h2>Noncompliant Code Example</h2>
+<pre>
+class MyClass {
+  void doSomething(int a) { // Noncompliant
+
+  }
+}
+</pre>
+
+<h2>Compliant Solution</h2>
+<pre>
+class MyClass {
+  int doSomething() { // Compliant
+    return 42;
+  }
+}
+</pre>

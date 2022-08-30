@@ -1,0 +1,11 @@
+{
+  "title": "Methods should not have the return type void",
+  "type": "Code_Smell",
+  "status": "ready",
+  "tags": [
+    "error",
+    "inf2",
+    "basic"
+  ],
+  "defaultSeverity": "Critical"
+}

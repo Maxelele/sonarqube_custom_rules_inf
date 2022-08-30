@@ -1,0 +1,11 @@
+{
+  "title": "'++, --, +=, -=' Statements are not allowed",
+  "type": "Code_Smell",
+  "status": "ready",
+  "tags": [
+    "error",
+    "inf2",
+    "basic"
+  ],
+  "defaultSeverity": "Critical"
+}
